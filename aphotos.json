@@ -1,14 +1,20 @@
 {
   "groups": {
-    "cat": [
-      "cat_foodie.jpg",
-      "cat_sleepy.jpg",
-      "cat_playful.png"
-    ],
-    "car": [
-      "car_hellcat.jpg",
-      "car_vintage.jpeg",
-      "car_muscle.png"
-    ]
+    "cat": {
+      "id": 1,
+      "photos": [
+        "cat_foodie.jpg",
+        "cat_sleepy.jpg",
+        "cat_playful.png"
+      ]
+    },
+    "car": {
+      "id": 2,
+      "photos": [
+        "car_hellcat.jpg",
+        "car_vintage.jpeg",
+        "car_muscle.png"
+      ]
+    }
   }
 }
