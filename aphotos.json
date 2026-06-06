@@ -6,6 +6,10 @@
         "cat_foodie.jpg",
         "cat_sleepy.jpg",
         "cat_playful.png"
+      ],
+      "notes": [
+        "She was staring at the food like it was a lover.",
+        "Taken during a quiet morning ritual."
       ]
     },
     "car": {
@@ -14,6 +18,10 @@
         "car_hellcat.jpg",
         "car_vintage.jpeg",
         "car_muscle.png"
+      ],
+      "notes": [
+        "The Hellcat roared like a mythic beast.",
+        "Captured during a sunset drive."
       ]
     }
   }
